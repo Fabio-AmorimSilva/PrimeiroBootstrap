@@ -1,0 +1,54 @@
+body {
+    font: arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+img {
+    width: 100%;
+
+}
+
+footer {
+    margin-top: 94px;
+    bottom: 0;
+
+}
+
+.parceiros{
+    background-color: lightblue;
+
+}
+
+.navbar {
+    background-color: #54EA2F;
+    margin-left: 50px;
+}
+
+.logo {
+    width: 70px;
+    height: 75px;
+}
+
+.quemsomos {
+    background-color: blue;
+    color: white;
+}
+
+.margin {
+    padding-bottom: 40px;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
+
+.center {
+    margin: auto;
+    text-align: center;
+
+}
+
+#mensagemArea {
+    height: 200px;
+}
